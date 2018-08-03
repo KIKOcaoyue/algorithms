@@ -1,0 +1,2 @@
+# algorithms
+easy algorithms
